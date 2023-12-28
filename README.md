@@ -2,6 +2,7 @@
 A collection of Assignments done for the course Reinforcement Learning @IIITD
 
 Bible for the course: http://incompleteideas.net/book/the-book-2nd.html
+
 Bartos, Sutton, Richard S., and Andrew G. Barto. Reinforcement learning: An introduction. MIT press, 2018.
 
 ## Assignment 1
