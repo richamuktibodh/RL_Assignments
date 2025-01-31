@@ -5,19 +5,19 @@ Bible for the course: http://incompleteideas.net/book/the-book-2nd.html
 
 Bartos, Sutton, Richard S., and Andrew G. Barto. Reinforcement learning: An introduction. MIT press, 2018.
 
-## Assignment 1
+## [Assignment 1](Assignment1)
 Coded out the following algorithms:
 1. Multi-armed bandit problem(epsilon-greedy)
 2. 10-armed testbed
 3. Gradient Bandit Algorithm
 4. Upper Confidence Bound (UCB) Action Selection
 
-## Assignment 2
+## [Assignment 2](Assignment2)
 Coded out the following algorithms:
 1. Value Iteration
 2. Policy Iteration (evaluation + improvement)
 
-## Assignment 3
+## [Assignment 3](Assignment3)
 Coded out the following algorithms:
 1. First Visit Monte Carlo
 2. Every Visit Monte Carlo
